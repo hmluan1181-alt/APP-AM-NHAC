@@ -1,0 +1,8 @@
+{
+  "name": "App Âm Nhạc - Trình Phát Nhạc Trực Tuyến",
+  "description": "Ứng dụng nghe nhạc trực tuyến và phát nhạc hiện đại với bảng xếp hạng, danh sách phát, lời bài hát đồng bộ, bộ chỉnh âm equalizer và hiệu ứng âm thanh sống động.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
